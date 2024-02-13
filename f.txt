@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 i
+=======
+
+i:x
+iiiiii
+
+
+>>>>>>> 8c5645602297159b8e588d6aee95b533ee636a72
 iiiiiii
 
 iiiii
+
 
